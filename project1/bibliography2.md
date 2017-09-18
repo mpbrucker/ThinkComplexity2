@@ -1,0 +1,4 @@
+[Sensitivity of Complex Networks](https://arxiv.org/abs/1610.05264)
+*Angulo, Marco T; Lippner, Gabor; Liu, Yang-Yu; Barabasi, Albert-Laszlo,* **arXiv:1610.05264 [cs.SY]**
+
+This paper explores how macroscopic behaviors emerge in dynamic networks. Angulo, Lippner, and Barabasi model the nodes, edges, and the governing equations of each node using matrices, then use Laplace transforms to find the transfer functions and investigate the behavior of the network in the s-domain. They found that in networks with heterogeneous interconnections (like ER graphs), each node contributes differently to the system based on the frequency of the system as a whole. They also found that scale-free networks represent a class of networks in which new behavior emerges past a certain frequency. They leave open the possibility of similar analysis for directed networks.
